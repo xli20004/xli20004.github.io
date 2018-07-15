@@ -1,6 +1,6 @@
 ## Introduction
 
-Xudong Li received his BSc. in Solid State Physics from Sichuan University. In 1988 he entered into the field of biomaterials firstly as a postgraduate of Professor Xingdong Zhang for MSc degree (Thesis: Development of porous hydroxyapatite-polyhydroxybutyrate composites) and then worked at the Engineering Research Center in Biomaterials of Sichuan University leading to the present position. He obtained his PhD at Qeen Mary, University of London, sponsored by the Andrew Carnegie Research Fund of The Institute of Materials, Minerals and Mining, UK. His research activities have covered a wide range of fields including porous hydroxyapatite ceramics preparation, development of hydroxyapatite coatings and films using plasma spraying and ion beam deposition techniques, bioactivity of titanium and titanium alloy implants via chemical treatments, polymeric precursors for structural and functional ceramics, and novel routes leading to the formation of organic-inorganic nano-hybrids. A variety of advanced testing methods have been widely employed in his research, including HRTEM, SEM, AFM, FT-IR and laser Raman spectrocopies, Solid state NMR, XRD and thermal analysis. His current interests focus on in situ synthesis of organic-calcium phosphate nanocomposites for hard tissue reconstruction, replacement and regeneration, hydrogels for tissue engineering including collagen.
+Xudong Li received his BSc. in Solid State Physics from Sichuan University. He obtained his PhD at Qeen Mary, University of London, sponsored by the Andrew Carnegie Research Fund of The Institute of Materials, Minerals and Mining, UK.
 
 ## Research Interests
 
@@ -8,14 +8,6 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. In 1
 2. Biomedical hydrogels for tissue engineering scaffolds  
 3. Biomineralization and biomimetic synthesis  
 4. Biomaterials characterization and surface modification
-
-## Current Projects
-
-1. Development of organic-inorganic nano-composites for medical applications (Sichuan University)  
-2. Investigation into biomaterials with biofunction for tissue reconstruction (International cooperative key project from Ministry of Science and Technology, granted to Professor Xingdong Zhang)  
-3. In situ mineralization of hydrogels for bone substitutes (SYSTF)  
-4. Research and development of biomedical materials and related devices （Sichuan key bidding project）  
-5. Basic studies of tissue inducing materials (Natioanl key basic study project, Chief Scientist: Professor Zhongwei Gu)
 
 ## Publication Lists
 
