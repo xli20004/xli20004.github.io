@@ -1,14 +1,14 @@
 ## Research Interests
 
-1.In situ synthesis of organic-inorganic nanocomposites for bone grafting  
-2.Biomedical hydrogels for tissue engineering scaffolds  
-3.Biomineralization and biomimetic synthesis  
-4.Biomaterials characterization and surface modification
+1. In situ synthesis of organic-inorganic nanocomposites for bone grafting  
+2. Biomedical hydrogels for tissue engineering scaffolds  
+3. Biomineralization and biomimetic synthesis  
+4. Biomaterials characterization and surface modification
 
 ## Publication
 
-[1]Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122.http://github.com - automatic!
-[github](http://github.com)
+[1]Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122. 
+[pdf](http://github.com)
 
 
 ### Markdown
