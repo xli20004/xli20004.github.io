@@ -19,99 +19,38 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. In 1
 
 ## Publication Lists
 
-[1]Xiaomin Wang, Xudong Li, Guiqiu Zheng, Jianming Jiang, Jiyong Chen,  Xingdong Zhang
-“In situ synthesis of PVA-PAA-HA Interpenetrating composite hydrogel”
-Bioceramics 18  
-[2]Yumei Xiao, Xudong Li, Hongsong Fan, Xiangdong Zhu, Lizhao Teng, Zhongwei Gu, Xingdong Zhang 
-“A Novel Preparation Method for Nano-HA/PLA Composite with grafted PLA”
-Bioceramics 18  
-[3]Xudong Li, Xiaomin Wang, Xiaoyan Lin, Jianming Jiang, Xingdong Zhang
-“Collagen-calcium phosphate hybrids for bone grafts: a novel route leading to high initial strengths”
-Bioceramics 18  
-[4]X. Y. Lin, H. S. Fan, X. D. Li, M Tang, L. L Zhang, Y. F. Tan, J. R. Xu and X. D. Zhang
-“In vitro and in vivo biocompatibility of nano-hydroxyapatite/collagen composites”
-Key Engineering Materials 2005, 288-289, 195-198.  
-[5]Y.M. Xiao, H.S. Fan, X.L. Wang, J.R. Xu, J.Q. Cheng, X.D. Li and X.D. Zhang
-“Preparation of nano-hydroxyapatite/poly(D,L-lacitide) composite and its degradation in femora of rabbits”
-Key Engineering Materials 2005, 288-289, 203-206.  
-[6]Y. Cao, B. Zhang, L.P. Wang, Q. Lin, X.D. Li, C.Y. Bao, J.Y. Chen, B.C. Yang, L. Yang and X.D. Zhang
-“The mechanical behavior of water vapor-treated HA coating produced by plasma spraying technique”
-Key Engineering Materials 2005, 288-289, 355-358.  
-[7]Jian Lu, Xiaoyan Lin, Bo Jiang, Xudong Li, Jiyong Chen, Xingdong Zhang
-“Preparation and characterization of collagen by hydrogel formation method”
-Key Engineering Materials 2005, 288-289, 377-380.  
-[8]X. Y. Lin, X.D. Li, H. S. Fan, Y. M. Xiao, J. Lu, X. D .Zhang
-“Comparative investigation of coprecipitation and in-situ synthesis of nano hydroxyapatite/collagen composite”
-Key Engineering Materials 2005, 284-286, 839-842.  
-[9]Y. Cao, B. Zhang, L.P. Wang, Q. Lin, X.D. Li, C.Y. Bao, J.Y. Chen, B.C. Yang, L. Yang and X.D. Zhang
-“The effect of post-treatment on the mechanical behavior of plasma sprayed HA coating”
-Key Engineering Materials 2005, 284-286, 337-340.  
-[10]X.Y. Lin, H.S. Fan, X.D. Li, M. Tang, X.D. Zhang
-“Evaluation of bioactivity and cytocompatibility of nano-hydroxyapatite/collagen composite in vitro”
-Key Engineering Materials 2005, 284-286, 553-556.  
-[11]Y. Cao, L.P. Wang, B. Zhang, Q. Lin, X.D. Li, C.Y. Bao, J.Y. Chen, L.Yang, X.D. Zhang
-“The effect of microporous structure on bone-bonding ability of titanium”
-Key Engineering Materials 2005, 284-286, 211-214.  
-[12]Y.M. Xiao, H.C. Zhao, H.S. Fan, X.L. Wang, L.K. Guo, X.D. Li, X.D. Zhang
-“A novel way to prepare nano-hydroxyapatite/poly(D,L-lactide) composite”
-Materials Science Forum 2005, 475-479, 2383-2386.   
-[13]C.Y. Bao, P. Li, Y.F. Tan, Y. Cao, X.Y. Ling, C.L. Deng, X.D. Li, W.C. Chen, H.S. Fan and X.D. Zhang
-“Experimental study on the osteoinductive of calcium phosphate biomaterials in vivo and the capability of supporting osteoblast proliferation in vitro”
-Key Engineering Materials 2005, 284-286, 293-296.  
-[14]Y. Xiao, H. Fan, Y. Wu, J. Xu, Y. Tan, X. Lin, X. Li, X. Zhang
-“In vivo evaluation of nano-HA/PDLLA composite”
-Key Engineering Materials 2005, 284-286, 881-884.  
-[15]Xiaoyan Lin, Xudong Li, Hongsong Fan, Xiantao Wen, Jian Lu and Xingdong Zhang
-“In situ synthesis of bone-like apatite/collagen nano-composite at low temperature”
-Materials Letters 2004, 58(27-28), 3569-3572.   
-[16]Xudong Li and Mohan J. Edirisinghe
-“Evolution of the ceramic structure during thermal degradation of a Si-Al-C-O precursor”
-Chemistry of Materials 2004, 16(6), 1111-1119.  
-[17]Xudong Li and Mohan J. Edirisinghe
-“Structural evaluation of polysilane derived products: from amorphous to thermodynamically stable phases”
-Philosophical Magazine 2004, 84(7), 647-671.  
-[18]Xudong Li and Mohan J. Edirisinghe
-“A new Al coordination site in Si-C-Al-N-(O) ceramics”
-Journal of the American Ceramic Society 2003, 86(12), 2212-2214.  
-[19]Xudong Li and Mohan J. Edirisinghe
-“Structural investigation of Si-Al-C-O precursors and their pyrolysis products in nitrogen.”
-Proceedings of the Royal Society A – Mathematical and Physical and Engineering Sciences 2003, 459(2039), 2731-2747.  
-[20]Xudong Li and Mohan J. Edirisinghe
-“Controlled synthesis of silicon carbide-aluminium nitride composites using a preceramic polymer route”
-Journal of Materials Science Letters 2002, 21(1), 21-23.  
-[21]Weidong Tong, Xudong Li, Jiaming Feng, Jiyong Chen and Xingdong Zhang
-“Phase transition of hydroxyapatite coatings during post-heat treatment and their performances under ultrasonic tests”
-Journal of Biomedical Materials Research 2001, 56(1), 49-55.  
-[22]Huichuan Zhao, Xudong Li, Jianxin Wang, Shuxin Qu, Jie Weng and Xingdong Zhang
-“Characterization of peroxide ions in hydroxyapatite lattice”
-Journal of Biomedical Materials Research 2000, 52(1), 157-163.  
-[23]Bangcheng Yang, Jie Weng, Xudong Li, Zhongjian Yang, Jiaming Feng, Jiyong Chen and Xingdong Zhang
-“Preliminary study on HA coating percutaneously implanted in bone”
-The International Journal of Artificial Organs 1999, 22(10), 713-718.  
-[24]Bangcheng Yang, Jie Weng, Xudong Li and Xingdong Zhang
-“The order of calcium and phosphate ion deposition on chemically treated titanium surfaces soaked in aqueous solution”
-Journal of Biomedical Materials Research 1999, 47(2), 213-219.  
-[25]Bangcheng Yang, Jie Weng, Xudong Li and Xingdong Zhang
-“A preliminary study of the mechanism of the apatite nucleation on chemically treated titanium”
-Journal of Materials Science Letters 1999, 18(16), 1323-1324.  
-[26]Xudong Li, Jie Weng, Peilu Wang, Chunpei Zhao and Xingdong Zhang
-“Structure and solubility of hydroxyapatite thin films produced by ion beam technique”
-Journal of Inorganic Materials 1998, 13(4), 541-546.  
-[27]Xudong Li, Jie Weng, Weidong Tong, Changming Zuo, Xingdong Zhang, Peilu Wang and Zhongying Liu
-“Characterization of hydroxyapatite film with mixed interface by Ar+ ion beam enhanced deposition”
-Biomaterials 1997, 18(22), 1487-1493.  
-[28]Weidong Tong, Jiyong Chen, Xudong Li, Jiaming Feng, Yang Cao, Zhongjian Yang and Xingdong Zhang
-“Preferred orientation of plasma sprayed hydroxyapatite coatings”
-Journal of Materials Science 1996, 31(14), 3739-3742.  
-[29]Weidong Tong, Jiyong Chen, Xudong Li, Yang Cao, Zhongjian Yang, Jiaming Feng and Xingdong Zhang
-“Effect of particle size on molten states of starting powder and degradation of the relevant plasma-sprayed hydroxyapatite coatings”
-Biomaterials 1996, 17(15), 1507-1513.  
-[30]Jie Weng, Xiaoguang Liu, Xudong Li and Xingdong Zhang
-“Intrinsic factors of apatite influencing its amorphization during plasma-spray coating”
-Biomaterials 1995, 16(1), 39-44.  
-[31]Z. Zyman, J. Weng, X. Liu, X. Li and X. Zhang
-“Phase and structural changes in hydroxyapatite coatings under heat treatment”
-Biomaterials 1994, 15(2), 151-155.
+[1]Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122. IF= 7.233  
+[2]Wen Su, Xiaomin Ma, Zhe Sun, Zeng Yi, Xinxing Cui, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, RhBMP-2 and concomitant rapid material degradation synergistically promote bone repair and regeneration with collagen-hydroxyapatite nanocomposites, J. Mater. Chem. B 2018, 6, 4338-4350. IF= 4.776   
+[3]Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, J. Mater. Chem. B 2018, 6, 3811-3819. IF= 4.776  
+[4]Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, Langmuir 2018, 34, 6797-6805. IF=3.789  
+[5]Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700  
+[6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative Biomaterials 2018, 5, 93–103.  
+[7]Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776  
+[8]Zhe Sun, Zeng Yi, Huaiying Zhang, Xiaomin Ma, Wen Su, Xiaoyu Sun, Xudong Li, Bio-responsive alginate-keratin composite nanogels with enhanced drug loading efficiency for cancer therapy, Carbohyd. Polym. 2017, 175, 159-169. IF=5.158  
+[9]Huaiying Zhang, Zeng Yi, Zhe Sun, Xiaomin Ma, Xudong Li, Functional nanoparticles of tea polyphenols for doxorubicin delivery in cancer treatment, J. Mater. Chem. B 2017, 5, 7622-7631. IF= 4.776  
+[10]X. Ma, T. Zhu, Z. Chen, J. Ma, Y. Zhang & X. Li*, Gelatin intervened synthesis of calcite cocoon-like microparticles assembled with small rhombohedra at low temperature, Adv. Appl. Ceram. 2016, 115, 1-5. IF=1.092.  
+[11]W. Su, X. Ma, X. Sun & X. Li*, Physicochemical characterisation and thermal decomposition of synthetic collagen based nanocomposites in comparison with natural bone, Adv. Appl. Ceram. 2016, 115, 29-35. IF=1.092.  
+[12]Yanming Wang, Xiaoxiang Ren, Xiaomin Ma, Wen Su, Yaping Zhang, Xiaosong Sun, Xudong Li*, Alginate-Intervened Hydrothermal Synthesis of Hydroxyapatite Nanocrystals with Nanopores, Cryst. Growth & Des. 2015, 15 (4), 1949–1956. IF=3.972.  
+[13]Libang He, Dongmei Deng, Xuedong Zhou, Lei Cheng, Jacob M. ten Cate, Jiyao Li*, Xudong Li, Wim Crielaard, Novel tea polyphenol-modified calcium phosphate nanoparticle and its remineralization potential, J. Biomed. Mater. Res. Part B: Appl. Biomater. 2015, 103B, 1525–1531. IF=3.373  
+[14]张怀英 ，任肖湘 ，马晓敏 ，李旭东，茶资源在生物医学领域的应用展望，中国茶叶加工，2015，1，5-10.  
+[15]Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional spheres based on oxidative coupling assembly of green tea polyphenols, J. Am. Chem. Soc. 2013, 135(11), 4179-4182. IF=14.357.  
+[16]Songmei Xu, Lin Sang, Yaping Zhang, Xiaoliang Wang, Xudong Li*, Biological evalution of human hair keratin scaffolds for skin wound repair and regeneration, Mater. Sci. Eng. C 2013, 33, 648-655. IF=5.080.
+[17]彭万佳，马晓敏，李旭东，纤维素调控合成羟基磷灰石纳米带，化学研究与应用，2013，25(7)，994-998.
+[18]Zhenhua Chen*, Xiuli Ren, Huihui Zhou, Xudong Li*, The role of hyaluronaic acid in biomineralization, Front. Mater. Sci. 2012, 6(4), 283-296. IF=1.478.
+[19]Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrothermal carbonization of an alginate for the production of carbon microspheres with unique surface nanopores, Mater. Lett. 2012, 67, 365-368. IF=2.687.
+[20]J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. Adv. Appl. Ceram. 2011, 110, 275-279. IF=1.092.
+[21]Dongmei Luo, Lin Sang, Xiaoliang Wang, Songmei Xu, Xudong Li*. Low temperature, pH-triggered synthesis of collagen-chitosan-hydroxyapatite nanocomposites as potential bone grafting substitutes. Mater. Lett. 2011, 65, 2395-2397. IF=2.687.
+[22]王彩红，陈震华，陈君泽，彭万佳，李旭东*，离子缓释法制备羟基磷灰石纳米晶组装体，化学研究与应用，2011，23（5），630-633.
+[23]Lin Sang, Dongmei Luo, Songmei Xu, Xiaoliang Wang, Xudong Li*. Fabrication and evaluation of biomimetic scaffolds by using collagen-alginate fibrillar gels for potential tissue applications. Mater. Sci. Eng. C 2011, 31, 262-271. IF=5.080. 入选杂志2010年10-12月份 top 25 hottest articles，排名第20.
+[24]Xiaoliang Wang, Lin Sang, Dongmei Luo, Xudong Li*. From collagen-chitosan blends to three-dimensional scaffolds: The influences of chitosan on collagen nanofibrillar structure and mechanical property. Colloids Surf. B: Biointerfaces 2011, 82, 233-240. IF=3.997.
+[25]Zhenhua Chen, Caihong Wang, Huihui Zhou, Xudong Li*. Biomimetic crystallization of toplike calcite single crystals with an extensive (00.1) face in the presence of sodium hyaluronate. Cryst. Growth Des. 2010, 10, 4722-4727. IF=3.972.
+[26]Lin Sang, Xiaoliang Wang, Zhenhua Chen, Jiao Lu, Zhongwei Gu, Xudong Li*. Assembly of collagen fibrillar networks in the presence of alginate. Carbohyd. Polym. 2010, 82, 1264-1270. IF=5.158.
+[27]Lin Sang, Jie Huang, Dongmei Luo, Zhenhua Chen, Xudong Li*. Bone-like nanocomposites based on self-assembled protein-based matrices with Ca2+ capturing capability. J. Mater. Sci. Mater. Med. 2010, 21, 2561-2568. IF=2.448.
+[28]Zhenhua Chen, Huihui Zhou, Xiaoliang Wang, Lin Sang, Caihong Wang, Jianfeng Ma and Xudong Li*. Controlled mineralization by extracellular matrix: monodisperse, colloidally stable calcium phosphate-hyaluronan hybrid nanospheres. Chem. Commun. 2010, 46, 1278-1280. IF=6.29. 入选RSC每周晶体工程精华(Weekly CrystEngSelects).
+[29]Zhenhua Chen, Caihong Wang, Huihui Zhou, Lin Sang, Xudong Li*. Modulation of calcium oxalate crystallization by commonly consumed green tea. Cryst Eng Comm 2010, 12, 845-852. IF=3.304. 英国皇家化学会点评期刊《Highlights in Chemical Science》（化学科学亮点）以“绿茶预防肾结石”为题进行了推荐介绍(Green tea prevents kidney stones, Highlights Chem. Sci., 2009, 6, C92)；论文入选Nature China（自然中国）突出研究成果，以“无机化学：绿茶魔力 Inorganic Chemistry: Green Tea Magic”为题对这篇论文进行了研究亮点推荐(http://www.nature.com/nchina/2009/091202/full/nchina.2009.229.html).
+[30]朱挺，陈震华，李旭东*，明胶调控下单分散CaCO3花瓣球形微粒的制备，化学研究与应用，2010，22（5），574-578.
+[31]X. M. Wang, X. L. Wang, J. F. Ma, J. M. Jiang, G. Q. Zheng, Z. H. Chen, X. D. Li*. Versatile nanostructured processing strategy for bone grafting nanocomposites based on collagen fibrillogenesis. Adv. Appl. Ceram. 2009, 108, 384-388. IF=1.092.
+[32]Xiaoliang Wang, Xiaomin Wang, Yanfei Tan, Bo Zhang, Zhongwei Gu, Xudong Li*. Synthesis and evaluation of collagen-chitosan-hydroxyapatite nanocomposites for bone grafting. J. Biomed. Mater. Res. 2009, 89A, 1079-1087. IF=3.231.
 
 
 
