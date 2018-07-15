@@ -34,23 +34,13 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. In 1
 [13]Libang He, Dongmei Deng, Xuedong Zhou, Lei Cheng, Jacob M. ten Cate, Jiyao Li*, Xudong Li, Wim Crielaard, Novel tea polyphenol-modified calcium phosphate nanoparticle and its remineralization potential, J. Biomed. Mater. Res. Part B: Appl. Biomater. 2015, 103B, 1525–1531. IF=3.373  
 [14]张怀英 ，任肖湘 ，马晓敏 ，李旭东，茶资源在生物医学领域的应用展望，中国茶叶加工，2015，1，5-10.  
 [15]Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional spheres based on oxidative coupling assembly of green tea polyphenols, J. Am. Chem. Soc. 2013, 135(11), 4179-4182. IF=14.357.  
-[16]Songmei Xu, Lin Sang, Yaping Zhang, Xiaoliang Wang, Xudong Li*, Biological evalution of human hair keratin scaffolds for skin wound repair and regeneration, Mater. Sci. Eng. C 2013, 33, 648-655. IF=5.080.
-[17]彭万佳，马晓敏，李旭东，纤维素调控合成羟基磷灰石纳米带，化学研究与应用，2013，25(7)，994-998.
-[18]Zhenhua Chen*, Xiuli Ren, Huihui Zhou, Xudong Li*, The role of hyaluronaic acid in biomineralization, Front. Mater. Sci. 2012, 6(4), 283-296. IF=1.478.
-[19]Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrothermal carbonization of an alginate for the production of carbon microspheres with unique surface nanopores, Mater. Lett. 2012, 67, 365-368. IF=2.687.
-[20]J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. Adv. Appl. Ceram. 2011, 110, 275-279. IF=1.092.
-[21]Dongmei Luo, Lin Sang, Xiaoliang Wang, Songmei Xu, Xudong Li*. Low temperature, pH-triggered synthesis of collagen-chitosan-hydroxyapatite nanocomposites as potential bone grafting substitutes. Mater. Lett. 2011, 65, 2395-2397. IF=2.687.
-[22]王彩红，陈震华，陈君泽，彭万佳，李旭东*，离子缓释法制备羟基磷灰石纳米晶组装体，化学研究与应用，2011，23（5），630-633.
-[23]Lin Sang, Dongmei Luo, Songmei Xu, Xiaoliang Wang, Xudong Li*. Fabrication and evaluation of biomimetic scaffolds by using collagen-alginate fibrillar gels for potential tissue applications. Mater. Sci. Eng. C 2011, 31, 262-271. IF=5.080. 入选杂志2010年10-12月份 top 25 hottest articles，排名第20.
-[24]Xiaoliang Wang, Lin Sang, Dongmei Luo, Xudong Li*. From collagen-chitosan blends to three-dimensional scaffolds: The influences of chitosan on collagen nanofibrillar structure and mechanical property. Colloids Surf. B: Biointerfaces 2011, 82, 233-240. IF=3.997.
-[25]Zhenhua Chen, Caihong Wang, Huihui Zhou, Xudong Li*. Biomimetic crystallization of toplike calcite single crystals with an extensive (00.1) face in the presence of sodium hyaluronate. Cryst. Growth Des. 2010, 10, 4722-4727. IF=3.972.
-[26]Lin Sang, Xiaoliang Wang, Zhenhua Chen, Jiao Lu, Zhongwei Gu, Xudong Li*. Assembly of collagen fibrillar networks in the presence of alginate. Carbohyd. Polym. 2010, 82, 1264-1270. IF=5.158.
-[27]Lin Sang, Jie Huang, Dongmei Luo, Zhenhua Chen, Xudong Li*. Bone-like nanocomposites based on self-assembled protein-based matrices with Ca2+ capturing capability. J. Mater. Sci. Mater. Med. 2010, 21, 2561-2568. IF=2.448.
-[28]Zhenhua Chen, Huihui Zhou, Xiaoliang Wang, Lin Sang, Caihong Wang, Jianfeng Ma and Xudong Li*. Controlled mineralization by extracellular matrix: monodisperse, colloidally stable calcium phosphate-hyaluronan hybrid nanospheres. Chem. Commun. 2010, 46, 1278-1280. IF=6.29. 入选RSC每周晶体工程精华(Weekly CrystEngSelects).
-[29]Zhenhua Chen, Caihong Wang, Huihui Zhou, Lin Sang, Xudong Li*. Modulation of calcium oxalate crystallization by commonly consumed green tea. Cryst Eng Comm 2010, 12, 845-852. IF=3.304. 英国皇家化学会点评期刊《Highlights in Chemical Science》（化学科学亮点）以“绿茶预防肾结石”为题进行了推荐介绍(Green tea prevents kidney stones, Highlights Chem. Sci., 2009, 6, C92)；论文入选Nature China（自然中国）突出研究成果，以“无机化学：绿茶魔力 Inorganic Chemistry: Green Tea Magic”为题对这篇论文进行了研究亮点推荐(http://www.nature.com/nchina/2009/091202/full/nchina.2009.229.html).
-[30]朱挺，陈震华，李旭东*，明胶调控下单分散CaCO3花瓣球形微粒的制备，化学研究与应用，2010，22（5），574-578.
-[31]X. M. Wang, X. L. Wang, J. F. Ma, J. M. Jiang, G. Q. Zheng, Z. H. Chen, X. D. Li*. Versatile nanostructured processing strategy for bone grafting nanocomposites based on collagen fibrillogenesis. Adv. Appl. Ceram. 2009, 108, 384-388. IF=1.092.
-[32]Xiaoliang Wang, Xiaomin Wang, Yanfei Tan, Bo Zhang, Zhongwei Gu, Xudong Li*. Synthesis and evaluation of collagen-chitosan-hydroxyapatite nanocomposites for bone grafting. J. Biomed. Mater. Res. 2009, 89A, 1079-1087. IF=3.231.
+[16]Songmei Xu, Lin Sang, Yaping Zhang, Xiaoliang Wang, Xudong Li*, Biological evalution of human hair keratin scaffolds for skin wound repair and regeneration, Mater. Sci. Eng. C 2013, 33, 648-655. IF=5.080.  
+[17]彭万佳，马晓敏，李旭东，纤维素调控合成羟基磷灰石纳米带，化学研究与应用，2013，25(7)，994-998.  
+[18]Zhenhua Chen*, Xiuli Ren, Huihui Zhou, Xudong Li*, The role of hyaluronaic acid in biomineralization, Front. Mater. Sci. 2012, 6(4), 283-296. IF=1.478.  
+[19]Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrothermal carbonization of an alginate for the production of carbon microspheres with unique surface nanopores, Mater. Lett. 2012, 67, 365-368. IF=2.687.  
+[20]J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. Adv. Appl. Ceram. 2011, 110, 275-279. IF=1.092.  
+[21]Dongmei Luo, Lin Sang, Xiaoliang Wang, Songmei Xu, Xudong Li*. Low temperature, pH-triggered synthesis of collagen-chitosan-hydroxyapatite nanocomposites as potential bone grafting substitutes. Mater. Lett. 2011, 65, 2395-2397. IF=2.687.  
+
 
 
 
