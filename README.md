@@ -1,24 +1,15 @@
-Room 705, biomaterials building,  
-National Engineering Research Center for Biomaterials  
-Engineering Research Center in Biomaterials  
-Sichuan University  
-Chengdu 610064  
-P R China  
+李旭东, 博士，生物材料教授 Dr Xudong Li, Professor of Biomaterials  
+国家生物医学材料工程研究中心 National Engineering Research Center for Biomaterials, China  
+四川大学生物材料工程研究中心 Engineering Research Center in Biomaterials, Sichuan University, China  
 
-Tel: +86 28 8541 2102  
-Fax: +86 28 8541 0246  
-Email: xli20004@yahoo.com
+李旭东于1983年四川大学本科毕业，获理学学士学位（固体物理专业）。1988年起在四川大学分析测试中心开始从事生物材料研究，获硕士学位后留校任职直至副研究员。2000年获英国材料研究所卡耐基奖学金，在英国伦敦大学玛丽皇后材料学院攻读博士学位。2004年作为四川大学引进人才，在国家生物医学材料工程技术研究中心任教授。
 
-## Introduction
+## 研究兴趣
 
-Xudong Li received his BSc. in Solid State Physics from Sichuan University. He obtained his PhD at Queen Mary, University of London, sponsored by the Andrew Carnegie Research Fund of The Institute of Materials, Minerals and Mining, UK.
-
-## Research Interests
-
-1. Situ synthesis of organic-inorganic nanocomposites for bone grafting  
-2. Biomedical hydrogels for tissue engineering scaffolds  
-3. Biomineralization and biomimetic synthesis  
-4. Biomaterials characterization and surface modification
+1. 基于（矿化）胶原、人源角质蛋白和多糖发展用于组织修复与再生的纳米生物材料、复合水凝胶和细胞支架  
+2. 材料与细胞的相互作用
+3. 仿生矿化和无机形貌合成（磷酸钙、碳酸钙和草酸钙）
+4. 利用植物多酚发展新颖生物材料
 
 ## Publication Lists
 
