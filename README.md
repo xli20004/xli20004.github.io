@@ -4,15 +4,15 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 
 ## Contact
 
-Tel:		+86 28 8541 2102  
-Fax:		+86 28 8541 0246  
-Location:	Room 705, biomaterials building,  
-          National Engineering Research Center for Biomaterials  
-	     	  Engineering Research Center in Biomaterials  
-          Sichuan University  
-          Chengdu 610064  
-          P R China  
-Email:	xli20004@yahoo.com 
+Room 705, biomaterials building,  
+National Engineering Research Center for Biomaterials  
+Engineering Research Center in Biomaterials  
+Sichuan University  
+Chengdu 610064  
+P R China  
+Tel: +86 28 8541 2102  
+Fax: +86 28 8541 0246  
+Email: xli20004@yahoo.com
 
 ## Research Interests
 
