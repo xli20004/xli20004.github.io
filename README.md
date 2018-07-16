@@ -6,7 +6,7 @@
 
 Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1983 and then worked as an engineer in Tianjin Synthetic Diamond Company. He began his studies on biomaterials for MSc at Analytical & Testing Center of Sichuan University in 1988, and became an academic staff (assistant/associate researcher) at the university. As awardee of Andrew Carnegie PhD research scholarship (IOM3), Xudong registered in 2000 as a PhD student at the materials department of Queen Mary, University of London. He joined in the National Engineering Research Center for Biomaterials, Sichuan University as full professor of biomaterials in 2004. His current research interests cover nanobiomaterials, composite hydrogels and scaffolds based on (mineralized) collagen, keratin and polysaacharides for tissue repair and regeneration, material-cell interactions, biomimetic mineralization and inorganic morphosynthesis (calcium phosphates, calcium carbonates and calcium oxalates) and novel biomaterials derived from plant polyphenols. 
 
-## 研究兴趣
+## 研究兴趣 
 
 1. 基于（矿化）胶原、人源角质蛋白和多糖发展用于组织修复与再生的纳米生物材料、复合水凝胶和细胞支架  
 2. 材料与细胞的相互作用
