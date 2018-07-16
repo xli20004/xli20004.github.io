@@ -11,18 +11,23 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 
 ## Publication Lists
 
-[1]Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122. IF= 7.233  
-[2]Wen Su, Xiaomin Ma, Zhe Sun, Zeng Yi, Xinxing Cui, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, RhBMP-2 and concomitant rapid material degradation synergistically promote bone repair and regeneration with collagen-hydroxyapatite nanocomposites, J. Mater. Chem. B 2018, 6, 4338-4350. IF= 4.776   
-[3]Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, J. Mater. Chem. B 2018, 6, 3811-3819. IF= 4.776  
-[4]Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, Langmuir 2018, 34, 6797-6805. IF=3.789  
-[5]Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700  
-[6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone 
+### 2018
+
+Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122. IF= 7.233  
+Wen Su, Xiaomin Ma, Zhe Sun, Zeng Yi, Xinxing Cui, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, RhBMP-2 and concomitant rapid material degradation synergistically promote bone repair and regeneration with collagen-hydroxyapatite nanocomposites, J. Mater. Chem. B 2018, 6, 4338-4350. IF= 4.776   
+Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, J. Mater. Chem. B 2018, 6, 3811-3819. IF= 4.776  
+Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, Langmuir 2018, 34, 6797-6805. IF=3.789  
+Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700  
+Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone 
 mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative 
 Biomaterials 2018, 5, 93-103.   
-[7]Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776  
-[8]Zhe Sun, Zeng Yi, Huaiying Zhang, Xiaomin Ma, Wen Su, Xiaoyu Sun, Xudong Li, Bio-responsive alginate-keratin composite nanogels with enhanced drug loading efficiency for cancer therapy, Carbohyd. Polym. 2017, 175, 159-169. IF=5.158  
-[9]Huaiying Zhang, Zeng Yi, Zhe Sun, Xiaomin Ma, Xudong Li, Functional nanoparticles of tea polyphenols for doxorubicin delivery in cancer treatment, J. Mater. Chem. B 2017, 5, 7622-7631. IF= 4.776  
-[10]X. Ma, T. Zhu, Z. Chen, J. Ma, Y. Zhang & X. Li*, Gelatin intervened synthesis of calcite cocoon-like microparticles assembled with small rhombohedra at low temperature, Adv. Appl. Ceram. 2016, 115, 1-5. IF=1.092.  
+Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776  
+
+### 2017  
+  
+Zhe Sun, Zeng Yi, Huaiying Zhang, Xiaomin Ma, Wen Su, Xiaoyu Sun, Xudong Li, Bio-responsive alginate-keratin composite nanogels with enhanced drug loading efficiency for cancer therapy, Carbohyd. Polym. 2017, 175, 159-169. IF=5.158  
+Huaiying Zhang, Zeng Yi, Zhe Sun, Xiaomin Ma, Xudong Li, Functional nanoparticles of tea polyphenols for doxorubicin delivery in cancer treatment, J. Mater. Chem. B 2017, 5, 7622-7631. IF= 4.776  
+X. Ma, T. Zhu, Z. Chen, J. Ma, Y. Zhang & X. Li*, Gelatin intervened synthesis of calcite cocoon-like microparticles assembled with small rhombohedra at low temperature, Adv. Appl. Ceram. 2016, 115, 1-5. IF=1.092.  
 [11]W. Su, X. Ma, X. Sun & X. Li*, Physicochemical characterisation and thermal decomposition of synthetic collagen based nanocomposites in comparison with natural bone, Adv. Appl. Ceram. 2016, 115, 29-35. IF=1.092.  
 [12]Yanming Wang, Xiaoxiang Ren, Xiaomin Ma, Wen Su, Yaping Zhang, Xiaosong Sun, Xudong Li*, Alginate-Intervened Hydrothermal Synthesis of Hydroxyapatite Nanocrystals with Nanopores, Cryst. Growth & Des. 2015, 15 (4), 1949–1956. IF=3.972.  
 [13]Libang He, Dongmei Deng, Xuedong Zhou, Lei Cheng, Jacob M. ten Cate, Jiyao Li*, Xudong Li, Wim Crielaard, Novel tea polyphenol-modified calcium phosphate nanoparticle and its remineralization potential, J. Biomed. Mater. Res. Part B: Appl. Biomater. 2015, 103B, 1525–1531. IF=3.373  
