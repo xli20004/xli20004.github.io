@@ -2,18 +2,6 @@
 
 Xudong Li received his BSc. in Solid State Physics from Sichuan University. He obtained his PhD at Queen Mary, University of London, sponsored by the Andrew Carnegie Research Fund of The Institute of Materials, Minerals and Mining, UK.
 
-## Contact
-
-Room 705, biomaterials building,  
-National Engineering Research Center for Biomaterials  
-Engineering Research Center in Biomaterials  
-Sichuan University  
-Chengdu 610064  
-P R China  
-Tel: +86 28 8541 2102  
-Fax: +86 28 8541 0246  
-Email: xli20004@yahoo.com
-
 ## Research Interests
 
 1. Situ synthesis of organic-inorganic nanocomposites for bone grafting  
@@ -72,3 +60,15 @@ Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrotherma
 J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. **_Adv. Appl. Ceram._** 2011, 110, 275-279. IF=1.092.  
 
 Dongmei Luo, Lin Sang, Xiaoliang Wang, Songmei Xu, Xudong Li*. Low temperature, pH-triggered synthesis of collagen-chitosan-hydroxyapatite nanocomposites as potential bone grafting substitutes. **_Mater. Lett._** 2011, 65, 2395-2397. IF=2.687.  
+
+## Contact
+
+Room 705, biomaterials building,  
+National Engineering Research Center for Biomaterials  
+Engineering Research Center in Biomaterials  
+Sichuan University  
+Chengdu 610064  
+P R China  
+Tel: +86 28 8541 2102  
+Fax: +86 28 8541 0246  
+Email: xli20004@yahoo.com
