@@ -18,7 +18,7 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 [5]Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700  
 [6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone 
 mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative 
-Biomaterials 2018, 5, 93-103.
+Biomaterials 2018, 5, 93-103.  
 [6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative Biomaterials 2018, 5, 93–103.  
 [7]Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776  
 [8]Zhe Sun, Zeng Yi, Huaiying Zhang, Xiaomin Ma, Wen Su, Xiaoyu Sun, Xudong Li, Bio-responsive alginate-keratin composite nanogels with enhanced drug loading efficiency for cancer therapy, Carbohyd. Polym. 2017, 175, 159-169. IF=5.158  
