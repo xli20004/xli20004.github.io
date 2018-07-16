@@ -1,10 +1,10 @@
 ## Introduction
 
-Xudong Li received his BSc. in Solid State Physics from Sichuan University. He obtained his PhD at Qeen Mary, University of London, sponsored by the Andrew Carnegie Research Fund of The Institute of Materials, Minerals and Mining, UK.
+Xudong Li received his BSc. in Solid State Physics from Sichuan University. He obtained his PhD at Queen Mary, University of London, sponsored by the Andrew Carnegie Research Fund of The Institute of Materials, Minerals and Mining, UK.
 
 ## Research Interests
 
-1. In situ synthesis of organic-inorganic nanocomposites for bone grafting  
+1. Situ synthesis of organic-inorganic nanocomposites for bone grafting  
 2. Biomedical hydrogels for tissue engineering scaffolds  
 3. Biomineralization and biomimetic synthesis  
 4. Biomaterials characterization and surface modification
@@ -17,6 +17,7 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 [4]Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, Langmuir 2018, 34, 6797-6805. IF=3.789  
 [5]Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700  
 [6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative Biomaterials 2018, 5, 93–103.  
+[7]Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776
 [7]Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776  
 [8]Zhe Sun, Zeng Yi, Huaiying Zhang, Xiaomin Ma, Wen Su, Xiaoyu Sun, Xudong Li, Bio-responsive alginate-keratin composite nanogels with enhanced drug loading efficiency for cancer therapy, Carbohyd. Polym. 2017, 175, 159-169. IF=5.158  
 [9]Huaiying Zhang, Zeng Yi, Zhe Sun, Xiaomin Ma, Xudong Li, Functional nanoparticles of tea polyphenols for doxorubicin delivery in cancer treatment, J. Mater. Chem. B 2017, 5, 7622-7631. IF= 4.776  
@@ -27,7 +28,6 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 [14]张怀英 ，任肖湘 ，马晓敏 ，李旭东，茶资源在生物医学领域的应用展望，中国茶叶加工，2015，1，5-10.  
 [15]Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional spheres based on oxidative coupling assembly of green tea polyphenols, J. Am. Chem. Soc. 2013, 135(11), 4179-4182. IF=14.357. [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/Biocompatible%2C%20Functional%20Spheres%20Based%20on%20Oxidative%20Coupling%20Assembly%20of%20Green%20Tea%20Polyphenols.pdf)   
 [16]Songmei Xu, Lin Sang, Yaping Zhang, Xiaoliang Wang, Xudong Li*, Biological evalution of human hair keratin scaffolds for skin wound repair and regeneration, Mater. Sci. Eng. C 2013, 33, 648-655. IF=5.080.  
-[17]彭万佳，马晓敏，李旭东，纤维素调控合成羟基磷灰石纳米带，化学研究与应用，2013，25(7)，994-998.  
 [18]Zhenhua Chen*, Xiuli Ren, Huihui Zhou, Xudong Li*, The role of hyaluronaic acid in biomineralization, Front. Mater. Sci. 2012, 6(4), 283-296. IF=1.478.  
 [19]Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrothermal carbonization of an alginate for the production of carbon microspheres with unique surface nanopores, Mater. Lett. 2012, 67, 365-368. IF=2.687.  
 [20]J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. Adv. Appl. Ceram. 2011, 110, 275-279. IF=1.092.  
