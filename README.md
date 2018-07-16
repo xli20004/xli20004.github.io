@@ -53,8 +53,6 @@ Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional sp
 
 Songmei Xu, Lin Sang, Yaping Zhang, Xiaoliang Wang, Xudong Li*, Biological evalution of human hair keratin scaffolds for skin wound repair and regeneration, Mater. Sci. Eng. C 2013, 33, 648-655. IF=5.080.  
 
-Zhenhua Chen*, Xiuli Ren, Huihui Zhou, Xudong Li*, The role of hyaluronaic acid in biomineralization, Front. Mater. Sci. 2012, 6(4), 283-296. IF=1.478.  
-
 Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrothermal carbonization of an alginate for the production of carbon microspheres with unique surface nanopores, Mater. Lett. 2012, 67, 365-368. IF=2.687.  
 
 J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. Adv. Appl. Ceram. 2011, 110, 275-279. IF=1.092.  
