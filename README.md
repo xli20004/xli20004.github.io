@@ -13,14 +13,20 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 
 ### 2018
 
-Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122. IF= 7.233    
+Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, Nanoscale 2018, 10, 12109-12122. IF= 7.233  
+  
 Wen Su, Xiaomin Ma, Zhe Sun, Zeng Yi, Xinxing Cui, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, RhBMP-2 and concomitant rapid material degradation synergistically promote bone repair and regeneration with collagen-hydroxyapatite nanocomposites, J. Mater. Chem. B 2018, 6, 4338-4350. IF= 4.776     
+
 Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, J. Mater. Chem. B 2018, 6, 3811-3819. IF= 4.776    
+
 Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, Langmuir 2018, 34, 6797-6805. IF=3.789    
+
 Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700    
+
 Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone 
 mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative 
 Biomaterials 2018, 5, 93-103.    
+
 Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, J. Mater. Chem. B 2018, 6, 1373-1386. IF= 4.776  
 
 ### 2017  
