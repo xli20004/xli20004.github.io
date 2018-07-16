@@ -11,7 +11,7 @@
 3. 仿生矿化和无机形貌合成（磷酸钙、碳酸钙和草酸钙）
 4. 利用植物多酚发展新颖生物材料
 
-## Publication Lists
+## Publication List
 
 ### 2018
 
