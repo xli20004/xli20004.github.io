@@ -16,7 +16,6 @@ Xudong Li received his BSc. in Solid State Physics from Sichuan University. He o
 [3]Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, J. Mater. Chem. B 2018, 6, 3811-3819. IF= 4.776  
 [4]Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, Langmuir 2018, 34, 6797-6805. IF=3.789  
 [5]Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, Inorg. Chem. 2018, 57, 4516-4523. IF= 4.700  
-[6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative Biomaterials 2018, 5, 93-103.  
 [6]Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone 
 mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, Regenerative 
 Biomaterials 2018, 5, 93-103.   
