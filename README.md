@@ -1,5 +1,5 @@
 <span id="jump5"></span>
-国家生物医学材料工程研究中心 National Engineering Research Center for Biomaterials  
+[国家生物医学材料工程研究中心](http://www.biomater.com/web/) National Engineering Research Center for Biomaterials  
 四川大学生物材料工程研究中心 Engineering Research Center in Biomaterials, Sichuan University  
 
 中国成都望江路29号四川大学生物材料中心（邮编610064）  
@@ -14,9 +14,9 @@ Tel/Fax: +86 28 8541 2102
 <span id="jump1"></span>
 ## 个人简介 Introduction
 
-李旭东于1983年四川大学本科毕业，获理学学士学位（固体物理专业）。1988年起在四川大学分析测试中心开始从事生物材料研究，获硕士学位后留校任职直至副研究员。2000年获英国材料研究所卡耐基奖学金，在英国伦敦大学玛丽皇后材料学院攻读博士学位。2004年作为四川大学引进人才，在[国家生物医学材料工程技术研究中心](http://www.biomater.com/web/)任教授。
+李旭东于1983年四川大学本科毕业，获理学学士学位（固体物理专业）。1988年起在四川大学分析测试中心开始从事生物材料研究，获硕士学位后留校任职直至副研究员。2000年获英国材料研究所卡耐基奖学金，在英国伦敦大学玛丽皇后材料学院攻读博士学位。2004年作为四川大学引进人才，在国家生物医学材料工程技术研究中心任教授。
 
-Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1983 and then worked as an engineer in Tianjin Synthetic Diamond Company. He began his studies on biomaterials for MSc at Analytical & Testing Center of Sichuan University in 1988, and became an academic staff (assistant/associate researcher) at the university. As awardee of Andrew Carnegie PhD research scholarship (IOM3), Xudong registered in 2000 as a PhD student at the materials department of Queen Mary, University of London. He joined in the [National Engineering Research Center for Biomaterials, Sichuan University](http://www.biomater.com/web/) as full professor of biomaterials in 2004.
+Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1983 and then worked as an engineer in Tianjin Synthetic Diamond Company. He began his studies on biomaterials for MSc at Analytical & Testing Center of Sichuan University in 1988, and became an academic staff (assistant/associate researcher) at the university. As awardee of Andrew Carnegie PhD research scholarship (IOM3), Xudong registered in 2000 as a PhD student at the materials department of Queen Mary, University of London. He joined in the National Engineering Research Center for Biomaterials, Sichuan University as full professor of biomaterials in 2004.
 
 <span id="jump2"></span>
 ## 研究兴趣 Research Interest
