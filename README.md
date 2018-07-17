@@ -4,6 +4,8 @@
 xli20004@yahoo.com  
 Tel/Fax: +86 28 8541 2102  
 
+[点击跳转](#jump)
+
 ## 个人简介 Introduction
 
 李旭东于1983年四川大学本科毕业，获理学学士学位（固体物理专业）。1988年起在四川大学分析测试中心开始从事生物材料研究，获硕士学位后留校任职直至副研究员。2000年获英国材料研究所卡耐基奖学金，在英国伦敦大学玛丽皇后材料学院攻读博士学位。2004年作为四川大学引进人才，在国家生物医学材料工程技术研究中心任教授。  
@@ -23,7 +25,7 @@ Nanoparticulate delivery systems for enhancing the efficacy of gusts (drugs/nutr
 -利用植物多酚(茶多酚)发展新颖生物材料
 Novel biomaterials derived from plant polyphenols (Catechins).
 
-## 主要学术论文 Selected Publications
+## 主要学术论文 Selected Publications <span id="jump">跳转到的地方</span>
 
 ### 2018
 
