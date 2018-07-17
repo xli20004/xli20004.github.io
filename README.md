@@ -10,7 +10,8 @@ xli20004@yahoo.com
 Tel/Fax: +86 28 8541 2102
 
 [个人简介Introduction](#jump1) [研究兴趣 Research Interest](#jump2)  
-[主要学术论文 Selected Publications](#jump3) [专利 Patents](#jump4)
+[主要学术论文 Selected Publications](#jump3) [专利 Patents](#jump4)  
+[茶多酚研究 Research on Tea-Polyphenols](xli20004.github.io/Tea-Polyphenols)
 
 <span id="jump1"></span>
 ## 个人简介 Introduction
