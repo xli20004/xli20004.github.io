@@ -2,21 +2,30 @@
 四川大学生物材料工程研究中心 Engineering Research Center in Biomaterials, Sichuan University, China  
 
 xli20004@yahoo.com  
-Tel: +86 28 8541 2102  
-Fax: +86 28 8541 0246
+Tel/Fax: +86 28 8541 2102  
 
 ## 个人简介 Introduction
 
 李旭东于1983年四川大学本科毕业，获理学学士学位（固体物理专业）。1988年起在四川大学分析测试中心开始从事生物材料研究，获硕士学位后留校任职直至副研究员。2000年获英国材料研究所卡耐基奖学金，在英国伦敦大学玛丽皇后材料学院攻读博士学位。2004年作为四川大学引进人才，在国家生物医学材料工程技术研究中心任教授。  
 
-Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1983 and then worked as an engineer in Tianjin Synthetic Diamond Company. He began his studies on biomaterials for MSc at Analytical & Testing Center of Sichuan University in 1988, and became an academic staff (assistant/associate researcher) at the university. As awardee of Andrew Carnegie PhD research scholarship (IOM3), Xudong registered in 2000 as a PhD student at the materials department of Queen Mary, University of London. He joined in the National Engineering Research Center for Biomaterials, Sichuan University as full professor of biomaterials in 2004. His current research interests cover nanobiomaterials, composite hydrogels and scaffolds based on (mineralized) collagen, keratin and polysaacharides for tissue repair and regeneration, material-cell interactions, biomimetic mineralization and inorganic morphosynthesis (calcium phosphates, calcium carbonates and calcium oxalates) and novel biomaterials derived from plant polyphenols. 
+Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1983 and then worked as an engineer in Tianjin Synthetic Diamond Company. He began his studies on biomaterials for MSc at Analytical & Testing Center of Sichuan University in 1988, and became an academic staff (assistant/associate researcher) at the university. As awardee of Andrew Carnegie PhD research scholarship (IOM3), Xudong registered in 2000 as a PhD student at the materials department of Queen Mary, University of London. He joined in the National Engineering Research Center for Biomaterials, Sichuan University as full professor of biomaterials in 2004.
 
 ## 研究兴趣 Research Interest
 
-1. 基于（矿化）胶原、人源角质蛋白和多糖发展用于组织修复与再生的纳米生物材料、复合水凝胶和细胞支架  
-2. 材料与细胞的相互作用
-3. 仿生矿化和无机形貌合成（磷酸钙、碳酸钙和草酸钙）
-4. 利用植物多酚发展新颖生物材料
+基于（矿化）胶原、人源角质蛋白和多糖发展用于组织修复与再生的纳米生物材料、复合水凝胶和细胞支架  
+Nanobiomaterials, composite hydrogels and scaffolds based on (mineralized) collagen, keratin and polysaacharides for tissue repair and regeneration  
+
+材料与细胞的相互作用
+Material-cell interactions  
+
+仿生矿化和无机形貌合成（磷酸钙、碳酸钙和草酸钙）
+Biomimetic mineralization and inorganic morphosynthesis (calcium phosphates, calcium carbonates and calcium oxalates)  
+
+可提升药物/营养物功效的纳米输送体系
+Nanoparticulate delivery systems for enhancing the efficacy of gusts (drugs/nutrients)  
+
+利用植物多酚(茶多酚)发展新颖生物材料
+Novel biomaterials derived from plant polyphenols (Catechins).
 
 ## 学术论文 Publication List
 
