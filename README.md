@@ -1,3 +1,4 @@
+<span id="jump5"></span>
 中国成都望江路29号四川大学生物材料中心（邮编610064）  
 Room No. 705-3, Biomaterials Building, Sichuan University,  
 Wangjiang Lu 29#, Chengdu 610064, China
@@ -88,7 +89,7 @@ Lin Sang, Jie Huang, Dongmei Luo, Zhenhua Chen, Xudong Li*. Bone-like nanocompos
 
 Zhenhua Chen, Huihui Zhou, Xiaoliang Wang, Lin Sang, Caihong Wang, Jianfeng Ma and Xudong Li*. Controlled mineralization by extracellular matrix: monodisperse, colloidally stable calcium phosphate-hyaluronan hybrid nanospheres. **_Chem. Commun.._** 2010, 46, 1278-1280. IF=6.29.  
 
-Zhenhua Chen, Caihong Wang, Huihui Zhou, Lin Sang, Xudong Li*. Modulation of calcium oxalate crystallization by commonly consumed green tea. **_Cryst Eng Comm._** 2010, 12, 845-852. IF=3.304. 英国皇家化学会点评期刊《Highlights in Chemical Science》（化学科学亮点）以“绿茶预防肾结石”为题进行了推荐介绍(Green tea prevents kidney stones, Highlights Chem. Sci., 2009, 6, C92)；论文入选Nature China（自然中国）突出研究成果，以“无机化学：绿茶魔力 Inorganic Chemistry: Green Tea Magic”为题对这篇论文进行了研究亮点推荐(http://www.nature.com/nchina/2009/091202/full/nchina.2009.229.html).  
+Zhenhua Chen, Caihong Wang, Huihui Zhou, Lin Sang, Xudong Li*. Modulation of calcium oxalate crystallization by commonly consumed green tea. **_Cryst Eng Comm._** 2010, 12, 845-852. IF=3.304. 英国皇家化学会点评期刊《Highlights in Chemical Science》（化学科学亮点）以“绿茶预防肾结石”为题进行了推荐介绍(Green tea prevents kidney stones, Highlights Chem. Sci., 2009, 6, C92)；论文入选Nature China（自然中国）突出研究成果，以“无机化学：绿茶魔力 Inorganic Chemistry: Green Tea Magic”为题对这篇论文进行了研究亮点推荐.  
 
 X. M. Wang, X. L. Wang, J. F. Ma, J. M. Jiang, G. Q. Zheng, Z. H. Chen, X. D. Li*. Versatile nanostructured processing strategy for bone grafting nanocomposites based on collagen fibrillogenesis. **_Adv. Appl. Ceram.._** 2009, 108, 384-388. IF=1.092.  
 
@@ -129,3 +130,5 @@ Xudong Li, Jie Weng, Weidong Tong, Changming Zuo, Xingdong Zhang, Peilu Wang, Zo
 李旭东、任肖湘、王彦明、苏文，海藻酸钠-羟基磷灰石杂化纳米粒子及其制备方法，专利号 201510299338.6（授权公告日：2018-01-12）
 
 李旭东、易增、陈光灿、孙哲、马晓敏、苏文、崔新星、陈翔宇，蛋白-多酚复合微球及其制备方法和用途，申请号201711403972.5（申请日期：2017-12-22）
+
+[回到顶部 Back to Top](#jump5)
