@@ -1,11 +1,8 @@
+中国成都望江路29号四川大学生物材料中心（邮编610064）  
+Room No. 705-3, Biomaterials Building, Sichuan University,  
+Wangjiang Lu 29#, Chengdu 610064, China
 
-生物材料楼 705-3办公室                                              Room 705, biomaterials building,  
-国家生物医学材料工程研究中心                     National Engineering Research Center for Biomaterials  
-四川大学生物材料工程研究中心          Engineering Research Center in Biomaterials， Sichuan University  
-成都                                                                                Chengdu 610064  
-中国                                                                                     P R China
-
-xli20004@yahoo.com
+xli20004@yahoo.com  
 Tel/Fax: +86 28 8541 2102
 
 [个人简介Introduction](#jump1) [研究兴趣 Research Interest](#jump2) [主要学术论文 Selected Publications](#jump3) [专利 Patents](#jump4)
