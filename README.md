@@ -23,7 +23,7 @@ Nanoparticulate delivery systems for enhancing the efficacy of gusts (drugs/nutr
 -利用植物多酚(茶多酚)发展新颖生物材料
 Novel biomaterials derived from plant polyphenols (Catechins).
 
-## 主要论文 Selected Publications
+## 主要学术论文 Selected Publications
 
 ### 2018
 
