@@ -1,6 +1,4 @@
 <span id="jump5"></span>
-李旭东, 博士，生物材料教授  
-Dr Xudong Li, Professor of Biomaterials  
 国家生物医学材料工程研究中心 National Engineering Research Center for Biomaterials, China  
 四川大学生物材料工程研究中心 Engineering Research Center in Biomaterials, Sichuan University, China  
 
