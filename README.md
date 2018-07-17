@@ -4,7 +4,7 @@
 xli20004@yahoo.com  
 Tel/Fax: +86 28 8541 2102  
 
-[个人简介Introduction](#jump1) [研究兴趣 Research Interest](#jump2) [主要学术论文 Selected Publications](#jump3) 
+[个人简介Introduction](#jump1) [研究兴趣 Research Interest](#jump2) [主要学术论文 Selected Publications](#jump3) [专利 Patents](#jump4)
 
 <span id="jump1"></span>
 ## 个人简介 Introduction
@@ -79,3 +79,9 @@ Junze Chen, Zhenhua Chen, Caihong Wang, Xudong Li*, Calcium-assisted hydrotherma
 J. F. Ma, S. Q. Wang, R. X. Du, X. D. Li*. Pressureless sintering of gelcast ZTA-MgO-TiO2 systems as potential dental ceramics. **_Adv. Appl. Ceram._** 2011, 110, 275-279. IF=1.092.  
 
 Dongmei Luo, Lin Sang, Xiaoliang Wang, Songmei Xu, Xudong Li*. Low temperature, pH-triggered synthesis of collagen-chitosan-hydroxyapatite nanocomposites as potential bone grafting substitutes. **_Mater. Lett._** 2011, 65, 2395-2397. IF=2.687.  
+
+<span id="jump4"></span>
+
+## 专利 Patents  
+
+
