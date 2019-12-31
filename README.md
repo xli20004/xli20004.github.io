@@ -40,9 +40,9 @@ Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1
 
 ### 2019
 
-Xiangyu Chen, Zeng Yi, Guangcan Chen, Xiaomin Ma, Wen Su, Xinxing Cui and Xudong Li, DOX-Assisted Functionalization of Green Tea Polyphenol Nanoparticles for Effective Chemo-Photothermal Cancer Therapy, J. Mater. Chem. B 2019, 7, 4066-4078. IF= 5.047 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/DOX-assisted.pdf)
+Xiangyu Chen, Zeng Yi, Guangcan Chen, Xiaomin Ma, Wen Su, Xinxing Cui and Xudong Li, DOX-Assisted Functionalization of Green Tea Polyphenol Nanoparticles for Effective Chemo-Photothermal Cancer Therapy, **_J. Mater. Chem. B_** 2019, 7, 4066-4078. IF= 5.047 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/DOX-assisted.pdf)
 
-Xingxing Cui, Songmei Xu, Wen Su, Zhe Sun, Zeng Yi, Xiaomin Ma, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Freeze-thaw cyclyes for biocompatible, mechanically robust scaffolds of human hair keratins, J. Biomed. Mater. Res. Part B: Appl. Biomater. 2019, 107B, 1452-1461. IF= 2.674 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Freeze-thaw.pdf)
+Xingxing Cui, Songmei Xu, Wen Su, Zhe Sun, Zeng Yi, Xiaomin Ma, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Freeze-thaw cyclyes for biocompatible, mechanically robust scaffolds of human hair keratins, **_J. Biomed. Mater. Res. Part B: Appl. Biomater._** 2019, 107B, 1452-1461. IF= 2.674 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Freeze-thaw.pdf)
 
 ### 2018
 
