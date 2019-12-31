@@ -38,23 +38,29 @@ Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1
 <span id="jump3"></span>
 ## 主要学术论文 Selected Publications
 
+### 2019
+
+Xiangyu Chen, Zeng Yi, Guangcan Chen, Xiaomin Ma, Wen Su, Xinxing Cui and Xudong Li, DOX-Assisted Functionalization of Green Tea Polyphenol Nanoparticles for Effective Chemo-Photothermal Cancer Therapy, J. Mater. Chem. B 2019, 7, 4066-4078. IF= 5.047 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/c8nr03265c.pdf)
+
+Xingxing Cui, Songmei Xu, Wen Su, Zhe Sun, Zeng Yi, Xiaomin Ma, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Freeze-thaw cyclyes for biocompatible, mechanically robust scaffolds of human hair keratins, J. Biomed. Mater. Res. Part B: Appl. Biomater. 2019, 107B, 1452-1461. IF= 2.674 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/c8nr03265c.pdf)
+
 ### 2018
 
-Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, **_Nanoscale_** 2018, 10, 12109-12122. IF= 7.233 [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/c8nr03265c.pdf)
+Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, **_Nanoscale_** 2018, 10, 12109-12122. IF= 7.233 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/c8nr03265c.pdf)
 
-Wen Su, Xiaomin Ma, Zhe Sun, Zeng Yi, Xinxing Cui, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, RhBMP-2 and concomitant rapid material degradation synergistically promote bone repair and regeneration with collagen-hydroxyapatite nanocomposites, **_J. Mater. Chem. B_** 2018, 6, 4338-4350. IF= 4.776 [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/RhBMP-2%20and%20concomitant%20rapid%20material%20degradation%20synergistically%20promote%20bone%20repair%20and%20regeneration%20with%20collagen–hydroxyapatite%20nanocomposites.pdf)
+Wen Su, Xiaomin Ma, Zhe Sun, Zeng Yi, Xinxing Cui, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, RhBMP-2 and concomitant rapid material degradation synergistically promote bone repair and regeneration with collagen-hydroxyapatite nanocomposites, **_J. Mater. Chem. B_** 2018, 6, 4338-4350. IF= 4.776 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/RhBMP-2%20and%20concomitant%20rapid%20material%20degradation%20synergistically%20promote%20bone%20repair%20and%20regeneration%20with%20collagen–hydroxyapatite%20nanocomposites.pdf)
 
-Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, **_J. Mater. Chem. B_** 2018, 6, 3811-3819. IF= 4.776 [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Biologically%20inspired%2C%20catechol-coordinated%2C%20hierarchical%20organization%20of%20raspberry-like%20calcium%20phosphate%20nanospheres%20with%20high%20specific%20surface%20area.pdf)
+Xiaomin Ma, Zhe Sun, Wen Su, Zeng Yi, Xinxing Cui, Bo Guo, Xudong Li, Biologically inspired, catechol-coordinated, hierarchical organization of raspberry-like calcium phosphate nanospheres with high specific surface area, **_J. Mater. Chem. B_** 2018, 6, 3811-3819. IF= 4.776 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Biologically%20inspired%2C%20catechol-coordinated%2C%20hierarchical%20organization%20of%20raspberry-like%20calcium%20phosphate%20nanospheres%20with%20high%20specific%20surface%20area.pdf)
 
-Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, **_Langmuir_** 2018, 34, 6797-6805. IF=3.789 [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Alginate-Mediated%20Mineralization%20for%20Ultrafine%20Hydroxyapatite%20Hybrid%20Nanoparticles.pdf)
+Xiaoxiang Ren, Zhe Sun, Xiaomin Ma, Yanming Wang, Xinxing Cui, Zeng Yi, Xiaoyu Sun, Bo Guo, Xudong Li, Alginate-mediated mineralization for ultrafine hydroxyapatite hybrid nanoparticles, **_Langmuir_** 2018, 34, 6797-6805. IF=3.789 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Alginate-Mediated%20Mineralization%20for%20Ultrafine%20Hydroxyapatite%20Hybrid%20Nanoparticles.pdf)
 
-Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, **_Inorg. Chem._** 2018, 57, 4516-4523. IF= 4.700 [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Delicate%20Assembly%20of%20Ultrathin%20Hydroxyapatite%20Nanobelts%20with%20Nanoneedles%20Directed%20by%20Dissolved%20Cellulose.pdf)
+Xiaomin Ma, Wanjia Peng, Wen Su, Zeng Yi, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Delicate assembly of ultrathin hydroxyapatite nanobelts with nanoneedles directed by dissolved cellulose, **_Inorg. Chem._** 2018, 57, 4516-4523. IF= 4.700 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Delicate%20Assembly%20of%20Ultrathin%20Hydroxyapatite%20Nanobelts%20with%20Nanoneedles%20Directed%20by%20Dissolved%20Cellulose.pdf)
 
 Xiaoyu Sun, Wen Su, Xiaomin Ma, Huaiying Zhang, Zhe Sun, Xudong Li*, Comparison of the osteogenic capability of rat bone
 mesenchymal stem cells on collagen, collagen/hydroxyapatite, hydroxyapatite and biphasic calcium phosphate, **_Regenerative
 Biomaterials_** 2018, 5, 93-103.
 
-Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, **_J. Mater. Chem. B_** 2018, 6, 1373-1386. IF= 4.776 [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Size-controlled%2C%20colloidally%20stable%20and%20functional%20nanoparticles%20based%20on%20the%20molecular%20assembly%20of%20green%20tea%20polyphenols%20and%20keratins%20for%20cancer%20therapy.pdf)
+Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, **_J. Mater. Chem. B_** 2018, 6, 1373-1386. IF= 4.776 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Size-controlled%2C%20colloidally%20stable%20and%20functional%20nanoparticles%20based%20on%20the%20molecular%20assembly%20of%20green%20tea%20polyphenols%20and%20keratins%20for%20cancer%20therapy.pdf)
 
 ### 2017
 
@@ -76,7 +82,7 @@ Libang He, Dongmei Deng, Xuedong Zhou, Lei Cheng, Jacob M. ten Cate, Jiyao Li*, 
 
 ### Before 2015
 
-Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional spheres based on oxidative coupling assembly of green tea polyphenols, **_J. Am. Chem. Soc._** 2013, 135(11), 4179-4182. IF=14.357. [pdf](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Biocompatible%2C%20Functional%20Spheres%20Based%20on%20Oxidative%20Coupling%20Assembly%20of%20Green%20Tea%20Polyphenols.pdf)
+Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional spheres based on oxidative coupling assembly of green tea polyphenols, **_J. Am. Chem. Soc._** 2013, 135(11), 4179-4182. IF=14.357. [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Biocompatible%2C%20Functional%20Spheres%20Based%20on%20Oxidative%20Coupling%20Assembly%20of%20Green%20Tea%20Polyphenols.pdf)
 
 Songmei Xu, Lin Sang, Yaping Zhang, Xiaoliang Wang, Xudong Li*, Biological evalution of human hair keratin scaffolds for skin wound repair and regeneration, **_Mater. Sci. Eng. C_** 2013, 33, 648-655. IF=5.080.
 
