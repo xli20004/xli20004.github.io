@@ -37,14 +37,31 @@ Mr Xudong Li got his BSc degree (solid state physics) at Sichuan University in 1
 
 <span id="jump3"></span>
 ## 主要学术论文 Selected Publications
+Guangcan Chen, Zeng Yi, Xiangyu Chen, Xiaomin Ma, Wen Su, and Xudong Li. Polyphenol Nanoparticles from Commonly Consumed Tea for Scavenging Free Radicals, Stabilizing Pickering Emulsions, and Inhibiting Cancer Cells. ACS Applied Nano Materials 2020.
 
-### 2019
+Zhiwen Deng, Zeng Yi, Guangcan Chen, Xiaomin Ma, Ya Tang, Xudong Li. Green tea polyphenol nanoparticle as a novel adsorbent to remove Pb2+ from wastewater. Materials Letters 2021, 284, 128986. IF=3.204
+
+YaqinRan, WenSu, LeiMa, XiaoliangWang*, XudongLi*. Insight into the effect of sulfonated chitosan on the structure, rheology and fibrillogenesis of collagen, International Journal of Biological Macromolecules 2021, 166, 1480-1490. IF=5.162.
+
+Xiangyu Chen, Zeng Yi, Guangcan Chen, Xiaomin Ma, Wen Su, Zhiwen Deng, Lei Ma, Qiulan Tong, Yaqin Ran and Xudong Li, Carrier-enhanced Photodynamic Cancer Therapy of Self-assembled Green Tea Polyphenol-based Nanoformulations, ACS Sustainable Chemistry & Engineering 2020, 8 (43) , 16372-16384. IF=7.632
+
+Lei Ma, Wen Su, Yaqin Ran, Xiaomin Ma, Zeng Yi, Guangcan Chen, Xiangyu Chen, Zhiwen Deng, Qiulan Tong, Xiaoliang Wang*, Xudong Li*, Synthesis and characterization of injectable self-healing hydrogels based on oxidized alginate-hybrid-hydroxyapatite nanoparticles and carboxymethyl chitosan, International Journal of Biological Macromolecules 2020, 165, 1164-1174. IF=5.162
+
+Xiaoxiang Ren, Zeng Yi, Zhe Sun, Xiaomin Ma, Guangcan Chen, Zhenhua Chen* and Xudong Li*, Natural polysaccharide-incorporated hydroxyapatite as size changeable, nuclear targeting nanocarriers for efficient cancer therapy, Biomaterials Science 2020, 8(19), 5390-5401. IF=6.183
+
+Wen Su, Yaqin Ran, Lei Ma, Xiaomin Ma, Zeng Yi, Guangcan Chen, Xiangyu Chen, Zhiwen Deng, Qiulan Tong, Xudong Li, Micro-/nano-mechanics dependence of biomimetic matrices upon collagen-based fibrillar aggregation and arrangement, Biomacromolecules 2020, 21(9), 3547-3560. IF=6.082
+
+Zeng Yi, Xiangyu Chen, Guangcan Chen, Zhiwen Deng, Qiulan Tong, Zhe Sun, Xiaomin Ma, Wen Su, Lei Ma, Yaqin Ran, Xudong Li, A General Nanomedicines Platform by Solvent-Mediated Disassembly/Reassembly of Scalable Natural Polyphenol Colloidal Spheres, ACS Appl. Mater. Interfaces 2020, 12 (34), 37914-37928. IF=8.758
+
+Zeng Yi, Guangcan Chen, Xiangyu Chen, Xiaomin Ma, Xinxing Cui, Zhe Sun, Wen Su, and Xudong Li*, Preparation of Strong Antioxidative, Therapeutic Nanoparticles Based on Amino Acids-Induced Ultrafast Assembly of Tea Polyphenols, ACS Appl. Mater. Interfaces 2020, 12(30), 33550-33563. IF=8.758
+
+Zeng Yi, Guangcan Chen, Xiangyu Chen, Zhe Sun, Xiaomin Ma, Wen Su, Zhiwen Deng, Lei Ma, Yaqin Ran, Qiulan Tong, and Xudong Li*, Modular Assembly of Versatile Nanoparticles with Epigallocatechin Gallate, ACS Sustainable Chemistry & Engineering 2020, 8, 9833–9845, featured in ACS Editors’ Choice IF=7.632
+
+Wen Su, Lei Ma, Yaqin Ran, Xiaomin Ma, Zeng Yi, Guangcan Chen, Xiangyu Chen, and Xudong Li*, Alginate-Assisted Mineralization of Collagen by Collagen Reconstitution and Calcium Phosphate Formation, ACS Biomaterials Science & Engineering  2020, 6, 3275-3286. IF=4.152
 
 Xiangyu Chen, Zeng Yi, Guangcan Chen, Xiaomin Ma, Wen Su, Xinxing Cui and Xudong Li, DOX-Assisted Functionalization of Green Tea Polyphenol Nanoparticles for Effective Chemo-Photothermal Cancer Therapy, **_J. Mater. Chem. B_** 2019, 7, 4066-4078. IF= 5.047 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/DOX-assisted.pdf)
 
 Xingxing Cui, Songmei Xu, Wen Su, Zhe Sun, Zeng Yi, Xiaomin Ma, Guangcan Chen, Xiangyu Chen, Bo Guo, Xudong Li, Freeze-thaw cyclyes for biocompatible, mechanically robust scaffolds of human hair keratins, **_J. Biomed. Mater. Res. Part B: Appl. Biomater._** 2019, 107B, 1452-1461. IF= 2.674 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Freeze-thaw.pdf)
-
-### 2018
 
 Zhe Sun, Zeng Yi, Xinxing Cui, Xiangyu Chen, Wen Su, Xiaoxiang Ren, Xudong Li, Tumor-targeted and nitric oxide-generated nanogels of keratin and hyaluronan for enhanced cancer therapy, **_Nanoscale_** 2018, 10, 12109-12122. IF= 7.233 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/c8nr03265c.pdf)
 
@@ -62,25 +79,17 @@ Biomaterials_** 2018, 5, 93-103.
 
 Zeng Yi, Zhe Sun, Guangcan Chen, Huaiying Zhang, Xiaomin Ma, Wen Su, Xinxing Cui, Xudong Li, Size-controlled, colloidally stable and functional nanoparticles based on the molecular assembly of green tea polyphenols and keratins for cancer therapy, **_J. Mater. Chem. B_** 2018, 6, 1373-1386. IF= 4.776 [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Size-controlled%2C%20colloidally%20stable%20and%20functional%20nanoparticles%20based%20on%20the%20molecular%20assembly%20of%20green%20tea%20polyphenols%20and%20keratins%20for%20cancer%20therapy.pdf)
 
-### 2017
-
 Zhe Sun, Zeng Yi, Huaiying Zhang, Xiaomin Ma, Wen Su, Xiaoyu Sun, Xudong Li, Bio-responsive alginate-keratin composite nanogels with enhanced drug loading efficiency for cancer therapy, **_Carbohyd. Polym._** 2017, 175, 159-169. IF=5.158
 
 Huaiying Zhang, Zeng Yi, Zhe Sun, Xiaomin Ma, Xudong Li, Functional nanoparticles of tea polyphenols for doxorubicin delivery in cancer treatment, **_J. Mater. Chem. B_** 2017, 5, 7622-7631. IF= 4.776
-
-### 2016
 
 X. Ma, T. Zhu, Z. Chen, J. Ma, Y. Zhang & X. Li*, Gelatin intervened synthesis of calcite cocoon-like microparticles assembled with small rhombohedra at low temperature, **_Adv. Appl. Ceram._** 2016, 115, 1-5. IF=1.092.
 
 W. Su, X. Ma, X. Sun & X. Li*, Physicochemical characterisation and thermal decomposition of synthetic collagen based nanocomposites in comparison with natural bone, **_Adv. Appl. Ceram._** 2016, 115, 29-35. IF=1.092.
 
-### 2015
-
 Yanming Wang, Xiaoxiang Ren, Xiaomin Ma, Wen Su, Yaping Zhang, Xiaosong Sun, Xudong Li*, Alginate-Intervened Hydrothermal Synthesis of Hydroxyapatite Nanocrystals with Nanopores, **_Cryst. Growth & Des._** 2015, 15 (4), 1949–1956. IF=3.972.
 
 Libang He, Dongmei Deng, Xuedong Zhou, Lei Cheng, Jacob M. ten Cate, Jiyao Li*, Xudong Li, Wim Crielaard, Novel tea polyphenol-modified calcium phosphate nanoparticle and its remineralization potential, **_J. Biomed. Mater. Res. Part B: Appl. Biomater._** 2015, 103B, 1525–1531. IF=3.373
-
-### Before 2015
 
 Zhenhua Chen, Caihong Wang, Junze Chen, Xudong Li*, Biocompatible, functional spheres based on oxidative coupling assembly of green tea polyphenols, **_J. Am. Chem. Soc._** 2013, 135(11), 4179-4182. IF=14.357. [\[pdf\]](https://github.com/xli20004/xli20004.github.io/raw/master/articles/Biocompatible%2C%20Functional%20Spheres%20Based%20on%20Oxidative%20Coupling%20Assembly%20of%20Green%20Tea%20Polyphenols.pdf)
 
@@ -115,7 +124,6 @@ Xiaoliang Wang, Xiaomin Wang, Yanfei Tan, Bo Zhang, Zhongwei Gu, Xudong Li*. Syn
 Xiaoyan Lin, Xudong Li, Hongsong Fan, Xiantao Wen, Jian Lu and Xingdong Zhang, In situ synthesis of bone-like apatite/collagen nano-composite at low temperature, **_Materials Letters._** 2004, 58(27-28), 3569-3572.   
 
 Xudong Li and Mohan J. Edirisinghe, Evolution of the ceramic structure during thermal degradation of a Si-Al-C-O precursor, **_Chemistry of Materials._** 2004, 16(6), 1111-1119.  
-
 Xudong Li and Mohan J. Edirisinghe, Structural evaluation of polysilane derived products: from amorphous to thermodynamically stable phases, **_Philosophical Magazine._** 2004, 84(7), 647-671.  
 
 Xudong Li and Mohan J. Edirisinghe, A new Al coordination site in Si-C-Al-N-(O) ceramics, **_Journal of the American Ceramic Society._** 2003, 86(12), 2212-2214.  
